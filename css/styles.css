@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(172, 224, 224)
+}
+hr
+{
+   background-color: antiquewhite; 
+border-top-style: dotted;   
+
+border-left: 0cm;
+border-bottom: 0cm;
+border-color: aqua;
+   border-width: 10px;
+   width: 30%;
+   border-radius: 0%
+    }
+   h1{
+    color: whitesmoke;
+   }
+   h3{
+    color: whitesmoke;
+   }
+   p {
+    border-color: black;
+   }
